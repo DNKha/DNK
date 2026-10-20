@@ -8,3 +8,4 @@
 3. ^(?=^.{4,16}$)(?:(?:[nN]ova(?:[lL]and|[gG]roup|[aA]dmin)?)|[aA]dmin)(?:202[0-6]|[1-3!@])+$
 4. ^(?=.{4,16}$)(?:[nN]ova(?:[lL]and|[gG]roup|[aA]dmin)?|[aA]dmin)(?:202[0-6]|[1-3!@])+$
 5. ^(?:(?:[nN]ova(?:[lL]and|[gG]roup|[aA]dmin)?)|[aA]dmin)(?:202[1-6]|[1-3!@]){0,12}$
+6. ^(?:(?:[nN]ova(?:[lL]and|[gG]roup|[aA]dmin)?)|[aA]dmin)(?:202[1-6]|[1-3!@]){0,12}$
